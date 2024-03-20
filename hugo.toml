@@ -1,6 +1,5 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseurl = "https://thunderpoot.github.io/hugo-bugo/"
+languageCode = 'en-gb'
+title = 'Hugo Lugo Bugo Fugo'
 theme = 'bugo'
 publishDir = "docs"
-
